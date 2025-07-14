@@ -1,0 +1,3 @@
+#take inputs from coma speprated values
+n=[int(x)for x in input("Enter 5 numbers:").split()[:5]]
+print(n)
